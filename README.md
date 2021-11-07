@@ -35,5 +35,5 @@
 
 <h2>Screenshot</h2>
 <img
-        src="./assets/images/pwgenscreenshot.png"
+        src="./Assets/images/pwgenscreenshot.png"
         alt="screenshot mock-up"/>
